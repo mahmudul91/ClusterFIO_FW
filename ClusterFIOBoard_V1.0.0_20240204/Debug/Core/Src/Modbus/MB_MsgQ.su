@@ -1,0 +1,8 @@
+MB_MsgQ.c:10:6:MBMQ_init	16	static
+MB_MsgQ.c:19:9:MBMQ_enque	16	static
+MB_MsgQ.c:37:9:MBMQ_deque	16	static
+MB_MsgQ.c:80:9:MBMQ_GetQueMsg	16	static
+MB_MsgQ.c:95:9:MBMQ_DeleteQueMsg	16	static
+MB_MsgQ.c:149:6:MBMQ_clear	24	static
+MB_MsgQ.c:172:9:MBMQ_setMsgParams	24	static
+MB_MsgQ.c:187:6:MBMQ_clearMsg	16	static

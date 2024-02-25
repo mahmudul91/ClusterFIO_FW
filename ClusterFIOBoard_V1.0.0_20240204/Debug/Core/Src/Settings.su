@@ -1,0 +1,4 @@
+Settings.c:122:6:InitialSettings	88	static
+Settings.c:686:6:UpdateSettings	48	static
+Settings.c:1281:6:SetUpdateSettings	24	static
+Settings.c:1291:6:FactorySettings	8	static

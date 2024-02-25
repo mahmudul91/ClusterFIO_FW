@@ -1,0 +1,9 @@
+w25Qxx_Interface.c:32:9:W25Q_Init	16	static
+w25Qxx_Interface.c:83:9:W25Q_SPIInit	8	static
+w25Qxx_Interface.c:117:18:W25Q_GetInstance	4	static
+w25Qxx_Interface.c:126:9:W25Q_SPIDeinit	8	static
+w25Qxx_Interface.c:139:6:W25Q_Delay_ms	16	static
+w25Qxx_Interface.c:149:6:W25Q_Delay_us	16	static
+w25Qxx_Interface.c:165:9:W25Q_SPIWriteRead	16	static
+w25Qxx_Interface.c:205:9:W25Q_SPIWrite	24	static
+w25Qxx_Interface.c:246:9:W25Q_SPIRead	24	static

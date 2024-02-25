@@ -1,0 +1,15 @@
+Encoder.c:20:6:ENC_Config	16	static
+Encoder.c:73:6:ENC_SetMode	16	static
+Encoder.c:83:6:ENC_NotifyOnChanges	16	static
+Encoder.c:93:13:ENC_ConfigQuad	104	static
+Encoder.c:155:6:ENC_ReadQuad	16	static
+Encoder.c:184:6:ENC_GetDirQuad	16	static
+Encoder.c:193:7:ENC_CalcPPR	24	static
+Encoder.c:216:6:ENC_CalcSpeedQuad	24	static
+Encoder.c:239:6:ENC_SetTrigModeQuad	8	static
+Encoder.c:253:6:DI_ConfigInceExtI	40	static
+Encoder.c:290:6:ENC_ReadChA	16	static
+Encoder.c:303:6:ENC_ReadChB	16	static
+Encoder.c:314:6:ENC_ReadChZ	16	static
+Encoder.c:332:6:ENC_SetTrigModeIncre	16	static
+Encoder.c:336:6:ENC_SetCountModeIncre	16	static

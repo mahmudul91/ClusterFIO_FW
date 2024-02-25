@@ -1,0 +1,11 @@
+PWM.c:19:6:PWM_Init	96	static
+PWM.c:80:6:PWM_ConfigTimer	16	static
+PWM.c:87:6:PWM_InitChannel	16	static
+PWM.c:106:6:PWM_ConfigChannel	16	static
+PWM.c:122:6:PWM_Start	16	static
+PWM.c:132:6:PWM_Stop	16	static
+PWM.c:143:6:PWM_CalcWithConstFreq	16	static
+PWM.c:153:6:PWM_CalcWithNonConstFreq	16	static
+PWM.c:163:6:PWM_Update	16	static
+PWM.c:180:8:PWM_CalcPrescaler	32	static
+PWM.c:192:8:PWM_CalcPeriod	32	static

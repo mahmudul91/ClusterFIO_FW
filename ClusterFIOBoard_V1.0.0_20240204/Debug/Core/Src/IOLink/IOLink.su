@@ -1,0 +1,14 @@
+IOLink.c:52:6:IOL_InitMaster	24	static
+IOLink.c:67:6:IOL_GetPort	24	static
+IOLink.c:75:9:IOL_GetPortNumber	16	static
+IOLink.c:79:18:IOL_GetPortInfo	16	static
+IOLink.c:84:7:IOL_GetMAInstance	16	static
+IOLink.c:89:7:IOL_GetALInstance	16	static
+IOLink.c:94:7:IOL_GetDLInstance	16	static
+IOLink.c:99:7:IOL_GetPLInstance	16	static
+IOLink.c:104:7:IOL_GetSMInstance	16	static
+IOLink.c:112:7:IOL_GetCMInstance	16	static
+IOLink.c:117:7:IOL_GetDSInstance	16	static
+IOLink.c:121:7:IOL_GetODEInstance	16	static
+IOLink.c:125:7:IOL_GetDUInstance	16	static
+IOLink.c:129:7:IOL_GetPDEInstance	16	static

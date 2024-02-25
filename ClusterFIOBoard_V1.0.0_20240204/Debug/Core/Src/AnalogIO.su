@@ -1,0 +1,10 @@
+AnalogIO.c:27:6:AO_Init	16	static
+AnalogIO.c:47:9:AO_Enable	16	static
+AnalogIO.c:56:9:AO_Disable	16	static
+AnalogIO.c:66:6:AO_CalculatePWM	16	static
+AnalogIO.c:102:9:AO_UpdatePWM	24	static
+AnalogIO.c:128:9:AO_IsValidInpSrc	16	static
+AnalogIO.c:137:6:AI_Init	16	static
+AnalogIO.c:146:6:AI_Config	24	static
+AnalogIO.c:168:6:AI_Read	16	static
+AnalogIO.c:226:9:AIO_IsValidMode	16	static

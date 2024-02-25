@@ -1,0 +1,16 @@
+Debug.c:38:6:DBG_INIT	16	static
+Debug.c:53:6:DBG_PRINT	24	static
+Debug.c:75:5:DBG_SPRINT	16	static
+Debug.c:96:5:DBG_SPRINT_NL	16	static
+Debug.c:127:5:DBG_SPRINT_APPEND	284	static
+Debug.c:151:6:DBG_PRINT_INT	32	static
+Debug.c:166:6:DBG_PRINT_FLOAT	32	static
+Debug.c:181:6:DBG_READ	16	static
+Debug.c:190:6:DBG_ENABLE	4	static
+Debug.c:199:6:DBG_DISABLE	4	static
+Debug.c:210:6:DBG_PRINT_TIMESTAMP	56	static
+Debug.c:217:6:DBG_ENABLE_TIMESTAMP	4	static
+Debug.c:226:6:DBG_DISABLE_TIMESTAMP	4	static
+Debug.c:235:9:DBG_IS_ENABLED	4	static
+Debug.c:244:6:DBG_AttachTxCallback	16	static
+Debug.c:253:10:DBG_TransTimeout	16	static

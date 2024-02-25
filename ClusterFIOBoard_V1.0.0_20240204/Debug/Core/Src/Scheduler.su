@@ -1,0 +1,10 @@
+Scheduler.c:140:6:SchedulerInit	24	static
+Scheduler.c:464:6:Scheduler	8	static
+Scheduler.c:509:16:TimeReached	16	static
+Scheduler.c:519:13:SetLastScheduleTime	24	static
+Scheduler.c:525:13:SupperLoop	8	static
+Scheduler.c:578:13:VeryFastLoop	4	static
+Scheduler.c:584:6:FastLoop	8	static
+Scheduler.c:595:6:MediumLoop	8	static
+Scheduler.c:615:6:SlowLoop	8	static
+Scheduler.c:645:6:VerySlowLoop	320	static

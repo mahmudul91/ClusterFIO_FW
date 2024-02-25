@@ -1,0 +1,10 @@
+MB_UART.c:48:9:MB_UartInit	24	static
+MB_UART.c:84:9:MB_UartInitDMA	24	static
+MB_UART.c:167:19:MB_UartSendDMA	16	static
+MB_UART.c:178:19:MB_BM_UartSendDMA	104	static,ignoring_inline_asm
+MB_UART.c:300:19:MB_UartReceiveDMA	24	static
+MB_UART.c:317:13:MB_UART_DMATransmitCplt	72	static,ignoring_inline_asm
+MB_UART.c:347:13:MB_UART_EndTxTransfer	40	static,ignoring_inline_asm
+MB_UART.c:360:13:MB_UART_EndRxTransfer	88	static,ignoring_inline_asm
+MB_UART.c:384:13:MB_UART_DMATxHalfCplt	16	static
+MB_UART.c:396:13:MB_UART_DMAError	24	static

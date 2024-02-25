@@ -1,0 +1,12 @@
+socket.c:105:8:socket	32	static
+socket.c:199:8:close	16	static
+socket.c:242:8:listen	16	static
+socket.c:258:8:connect	24	static
+socket.c:298:8:disconnect	16	static
+socket.c:318:9:send	24	static
+socket.c:393:9:recv	32	static
+socket.c:500:9:sendto	32	static
+socket.c:604:9:recvfrom	40	static
+socket.c:786:9:ctlsocket	24	static
+socket.c:832:9:setsockopt	16	static
+socket.c:885:9:getsockopt	24	static

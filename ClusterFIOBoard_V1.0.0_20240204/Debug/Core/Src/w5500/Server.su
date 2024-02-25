@@ -1,0 +1,6 @@
+Server.c:79:7:Server_SockInit	16	static
+Server.c:102:6:Server_Handler	16	static
+Server.c:152:6:Server_TCP	16	static
+Server.c:168:6:Server_UDP	16	static
+Server.c:204:6:Server_Disconnect	24	static
+Server.c:212:9:Serve_Send	16	static

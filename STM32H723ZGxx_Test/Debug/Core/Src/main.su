@@ -1,0 +1,14 @@
+main.c:75:6:ADC_Select_CH0	48	static
+main.c:93:6:ADC_Select_CH1	48	static
+main.c:111:6:HAL_UART_TxCpltCallback	32	static
+main.c:125:5:main	128	static
+main.c:239:6:SystemClock_Config	120	static
+main.c:299:13:MX_ADC1_Init	56	static
+main.c:364:13:MX_TIM2_Init	64	static
+main.c:435:13:MX_TIM4_Init	40	static
+main.c:480:13:MX_TIM6_Init	24	static
+main.c:518:13:MX_USART2_UART_Init	8	static
+main.c:566:13:MX_USART3_UART_Init	8	static
+main.c:612:13:MX_DMA_Init	16	static
+main.c:633:13:MX_GPIO_Init	48	static
+main.c:711:6:Error_Handler	4	static,ignoring_inline_asm

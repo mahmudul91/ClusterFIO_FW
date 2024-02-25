@@ -1,0 +1,7 @@
+DigitalOut.c:16:10:DO_Init	56	static
+DigitalOut.c:39:10:DO_Deinit	16	static
+DigitalOut.c:50:10:DO_SetMode	16	static
+DigitalOut.c:62:12:DO_GetMode	16	static
+DigitalOut.c:71:6:DO_Write	16	static
+DigitalOut.c:80:9:DO_Read	16	static
+DigitalOut.c:86:6:DO_AttachStateCHangeCallback	16	static

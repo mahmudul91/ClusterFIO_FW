@@ -1,0 +1,2 @@
+MB_Tools.c:16:10:MBTOOL_CombBytesToU16	16	static
+MB_Tools.c:23:6:MBTOOL_SplitU16ToBytes	24	static

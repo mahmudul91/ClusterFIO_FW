@@ -1,0 +1,15 @@
+EEPROM_StorageExt.c:38:9:EEPROM_UpdateBuffer	16	static
+EEPROM_StorageExt.c:44:9:EEPROM_UpdateEEPROM	8	static
+EEPROM_StorageExt.c:49:6:EEPROM_Init	16	static
+EEPROM_StorageExt.c:72:9:EEPROM_WriteIntNum	16	static
+EEPROM_StorageExt.c:87:10:EEPROM_ReadIntNum	24	static
+EEPROM_StorageExt.c:102:9:EEPROM_WriteFloatNum	24	static
+EEPROM_StorageExt.c:123:7:EEPROM_ReadFloatNum	24	static
+EEPROM_StorageExt.c:145:9:EEPROM_Write	48	dynamic
+EEPROM_StorageExt.c:174:9:EEPROM_Read	48	dynamic
+EEPROM_StorageExt.c:208:9:EEPROM_EraseNum	16	static
+EEPROM_StorageExt.c:221:9:EEPROM_Erase	40	dynamic
+EEPROM_StorageExt.c:247:9:EEPROM_EraseFull	16	static
+EEPROM_StorageExt.c:266:6:EEPROM_SetChngFlag	16	static
+EEPROM_StorageExt.c:273:6:EEPROM_ClearAllChngFlag	8	static
+EEPROM_StorageExt.c:280:6:EEPROM_CheckAndUpdateChanges	16	static

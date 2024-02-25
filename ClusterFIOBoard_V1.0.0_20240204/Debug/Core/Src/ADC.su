@@ -1,0 +1,9 @@
+ADC.c:32:6:ADC_Init	32	static
+ADC.c:83:6:ADC_SelectChannel	16	static
+ADC.c:107:10:ADC_ReadValue	24	static
+ADC.c:125:10:ADC_ReadValue_BM	24	static
+ADC.c:341:6:ADC_InitDMA	16	static
+ADC.c:391:6:ADC_ConfigChannel	24	static
+ADC.c:411:10:ADC_StartReadingDMA	24	static
+ADC.c:421:10:ADC_StopReadingDMA	16	static
+ADC.c:430:7:ADC_CalcVolt	16	static

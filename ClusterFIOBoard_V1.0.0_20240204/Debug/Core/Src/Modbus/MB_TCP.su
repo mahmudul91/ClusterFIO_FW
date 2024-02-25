@@ -1,0 +1,5 @@
+MB_TCP.c:21:6:MBTCP_SetNetInfo	24	static
+MB_TCP.c:38:6:MBTCP_AddHeader	16	static
+MB_TCP.c:46:6:MBTCP_ParseHeader	16	static
+MB_TCP.c:56:6:MBTCP_SetHeader	16	static
+MB_TCP.c:70:9:MBTCP_isFunCodeValid	16	static

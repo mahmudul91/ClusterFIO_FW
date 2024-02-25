@@ -1,0 +1,17 @@
+PCA9557_IOExt.c:41:14:PCA_AttachI2C	16	static
+PCA9557_IOExt.c:53:14:PCA_Init	40	static
+PCA9557_IOExt.c:77:14:PCA_ConfigPin	24	static
+PCA9557_IOExt.c:109:14:PCA_WritePin	24	static
+PCA9557_IOExt.c:141:14:PCA_WritePinAll	24	static
+PCA9557_IOExt.c:167:14:PCA_WritePinIT	24	static
+PCA9557_IOExt.c:200:14:PCA_WritePinAllIT	24	static
+PCA9557_IOExt.c:228:14:PCA_WritePinDMA	24	static
+PCA9557_IOExt.c:262:14:PCA_WritePinAllDMA	24	static
+PCA9557_IOExt.c:288:14:PCA_ReadPin	32	static
+PCA9557_IOExt.c:314:14:PCA_TogglePin	24	static
+PCA9557_IOExt.c:346:14:PCA_WriteReg	32	static
+PCA9557_IOExt.c:377:14:PCA_WriteRegIT	24	static
+PCA9557_IOExt.c:408:14:PCA_WriteRegDMA	24	static
+PCA9557_IOExt.c:440:14:PCA_ReadReg	32	static
+PCA9557_IOExt.c:480:9:PCA_GetWriteCmpltFlag	16	static
+PCA9557_IOExt.c:489:9:PCA_GetReadCmpltFlag	16	static

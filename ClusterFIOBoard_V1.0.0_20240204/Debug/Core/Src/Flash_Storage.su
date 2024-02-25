@@ -1,0 +1,10 @@
+Flash_Storage.c:45:6:FS_UpdateBuffer	8	static
+Flash_Storage.c:49:6:FS_UpdateFlash	8	static
+Flash_Storage.c:60:10:FS_Write	32	static
+Flash_Storage.c:100:6:FS_Read	24	static
+Flash_Storage.c:116:6:FS_EraseFlashPage	24	static
+Flash_Storage.c:139:10:FS_WriteIntNum	24	static
+Flash_Storage.c:165:11:FS_ReadIntNum	16	static
+Flash_Storage.c:182:10:FS_WriteFloatNum	40	static
+Flash_Storage.c:217:8:FS_ReadFloatNum	32	static
+Flash_Storage.c:237:10:FS_GetActivePage	4	static

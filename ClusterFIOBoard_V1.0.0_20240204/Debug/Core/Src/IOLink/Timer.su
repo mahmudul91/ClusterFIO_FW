@@ -1,0 +1,9 @@
+Timer.c:15:6:TIMER_Init	16	static
+Timer.c:25:6:TIMER_Start	16	static
+Timer.c:34:6:TIMER_Stop	16	static
+Timer.c:42:6:TIMER_SetTimeout	16	static
+Timer.c:49:6:TIMER_Reset	16	static
+Timer.c:56:9:TIMER_IsRunning	16	static
+Timer.c:62:9:TIMER_IsTimeout	32	static
+Timer.c:76:9:TIMER_IsReset	24	static
+Timer.c:85:6:TIMER_AttachTimeSourceCallback	16	static

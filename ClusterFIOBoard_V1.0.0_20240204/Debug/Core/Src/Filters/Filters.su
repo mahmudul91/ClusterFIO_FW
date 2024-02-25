@@ -1,0 +1,9 @@
+Filters.c:62:6:FLTR_ApplyMedian	56	static
+Filters.c:77:6:FLTR_ApplyMovAvg	16	static
+Filters.c:90:6:FLTR_ClearMedian	16	static
+Filters.c:102:6:FLTR_ClearMovAvg	16	static
+Filters.c:116:9:FLTR_ApplyDebounce	16	static
+Filters.c:135:6:FLTR_StartDebounceExti	16	static
+Filters.c:154:9:FLTR_ApplyDebounceExti	16	static
+Filters.c:167:6:FLTR_ClearDebounce	16	static
+Filters.c:180:5:CompFunc	16	static

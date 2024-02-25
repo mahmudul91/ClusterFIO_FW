@@ -1,0 +1,10 @@
+IOLink_Time.c:49:6:IOL_Timer_Init	16	static
+IOLink_Time.c:58:6:IOL_Timer_Start	16	static
+IOLink_Time.c:67:6:IOL_Timer_Stop	16	static
+IOLink_Time.c:74:10:IOL_Timer_GetTime	8	static
+IOLink_Time.c:80:6:IOL_Timer_SetTimeout	24	static
+IOLink_Time.c:87:6:IOL_Timer_Reset	16	static
+IOLink_Time.c:94:9:IOL_Timer_IsRunning	16	static
+IOLink_Time.c:100:9:IOL_Timer_IsTimeout	32	static
+IOLink_Time.c:114:9:IOL_Timer_IsReset	24	static
+IOLink_Time.c:123:6:IOL_Timer_AttachTimeSourceCallback	16	static

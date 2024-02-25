@@ -1,0 +1,10 @@
+TimeStamp.c:17:6:TS_Init	16	static
+TimeStamp.c:29:6:TS_SetTimerType	16	static
+TimeStamp.c:37:6:TS_AttachTimer	16	static
+TimeStamp.c:45:6:TS_StartTimer	16	static
+TimeStamp.c:53:6:TS_StopTimer	16	static
+TimeStamp.c:59:6:TS_UpdateTime	24	static
+TimeStamp.c:67:10:TS_GetUS	24	static
+TimeStamp.c:76:10:TS_GetMS	16	static
+TimeStamp.c:80:6:TS_GetTime	64	static
+TimeStamp.c:102:6:TS_CatchOVF	24	static

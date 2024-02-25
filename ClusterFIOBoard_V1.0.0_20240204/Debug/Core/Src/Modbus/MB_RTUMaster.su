@@ -1,0 +1,15 @@
+MB_RTUMaster.c:24:6:MBRM_Init	16	static
+MB_RTUMaster.c:45:15:MBRM_GetInstance	4	static
+MB_RTUMaster.c:53:6:MBRM_SetInstance	16	static
+MB_RTUMaster.c:60:6:MBRM_BindSerial	16	static
+MB_RTUMaster.c:67:6:MBRM_UnbindSerial	4	static
+MB_RTUMaster.c:72:6:MBRM_BuildReq	16	static
+MB_RTUMaster.c:83:6:MBRM_Execute	16	static
+MB_RTUMaster.c:208:6:MBRM_StartReplyTimer	16	static
+MB_RTUMaster.c:214:6:MBRM_StopReplyTimer	16	static
+MB_RTUMaster.c:219:6:MBRM_RestReplyTimer	16	static
+MB_RTUMaster.c:231:9:MBRM_IsReplyTimeout	24	static
+MB_RTUMaster.c:253:9:MBRM_IsUnexpectedSlave	4	static
+MB_RTUMaster.c:258:9:MBRM_GetSlaveAddress	4	static
+MB_RTUMaster.c:263:9:MBRM_GetFunCode	4	static
+MB_RTUMaster.c:273:10:MBRM_AppendToTxBuff	16	static

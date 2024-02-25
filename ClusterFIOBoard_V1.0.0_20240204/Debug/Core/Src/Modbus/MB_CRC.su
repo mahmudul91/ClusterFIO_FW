@@ -1,0 +1,2 @@
+MB_CRC.c:55:16:MB_CalcCRC16	24	static
+MB_CRC.c:80:9:MB_CRCCheck	40	dynamic

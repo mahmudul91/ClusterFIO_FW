@@ -1,0 +1,15 @@
+Flash_StorageExt.c:41:9:FSExt_Init	16	static
+Flash_StorageExt.c:56:9:FSExt_Download	16	static
+Flash_StorageExt.c:67:9:FSExt_Upload	8	static
+Flash_StorageExt.c:76:9:FSExt_WriteIntNum	16	static
+Flash_StorageExt.c:93:10:FSExt_ReadIntNum	24	static
+Flash_StorageExt.c:108:9:FSExt_WriteFloatNum	24	static
+Flash_StorageExt.c:129:7:FSExt_ReadFloatNum	24	static
+Flash_StorageExt.c:151:9:FSExt_Write	48	dynamic
+Flash_StorageExt.c:186:9:FSExt_Read	56	dynamic
+Flash_StorageExt.c:219:9:FSExt_EraseNum	16	static
+Flash_StorageExt.c:232:9:FSExt_Erase	40	dynamic
+Flash_StorageExt.c:258:9:FSExt_EraseFull	16	static
+Flash_StorageExt.c:271:6:FSExt_SetChngFlag	16	static
+Flash_StorageExt.c:279:6:FSExt_ClearAllChngFlag	8	static
+Flash_StorageExt.c:287:6:FSExt_CheckAndUpdateChanges	8	static

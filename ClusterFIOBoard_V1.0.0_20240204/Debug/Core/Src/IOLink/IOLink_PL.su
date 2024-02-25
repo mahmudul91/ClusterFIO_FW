@@ -1,0 +1,5 @@
+IOLink_PL.c:20:12:IOL_PL_Initialize	24	static
+IOLink_PL.c:41:6:IOL_PL_SetMode_req	24	static
+IOLink_PL.c:57:6:IOL_PL_WakeUp_req	24	static
+IOLink_PL.c:72:20:IOL_PL_Transfer_req	32	static
+IOLink_PL.c:83:12:IOL_PL_Transfer_ind	32	static

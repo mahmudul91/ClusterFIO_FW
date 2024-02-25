@@ -1,0 +1,3 @@
+IOLink_Stm32Hw.c:25:19:IOL_STM32_UartInit	272	static
+IOLink_Stm32Hw.c:146:19:IOL_STM32_UartInitDMA	40	static
+IOLink_Stm32Hw.c:237:7:IOL_STM32_GpioInit	56	static
